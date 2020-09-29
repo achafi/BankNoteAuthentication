@@ -38,7 +38,6 @@ def predict_note_authentication():
 @app.route('/predict_file', methods=["POST"])
 def predict_note_file():
   df_test = pd.read_csv(request.files.get("file"))
-  
   prediction = classifier.predict(df_test)
   return "The prediction value for the csv is " + str(list(prediction))
 
