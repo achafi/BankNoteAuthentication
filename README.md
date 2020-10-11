@@ -5,9 +5,9 @@
 ![Frontend](https://img.shields.io/badge/Streamlit-green)
 
 
-![Project Image](asstes/flask_app_swagger_front1.PNG)
-![Project Image](asstes/flask_app_swagger_front2.PNG)
-![Project Image](asstes/streamlit_app.PNG)
+![Project Image](flask_app_swagger_front1.PNG)
+![Project Image](flask_app_swagger_front2.PNG)
+![Project Image](streamlit_app.PNG)
 
 
 ---
